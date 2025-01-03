@@ -35,7 +35,7 @@
 }
 
 .menu .text .bottom_text{
-  font-size: 30px;
+  font-size: 25px;
 }
 
 /* my_info */
@@ -144,7 +144,6 @@
   padding: 2px;
   border-radius: 5px;
   margin: 0px;
-  border: 1px solid rgba(0,0,0,0.2);
   min-height: 135px;
 }
 .my_skills .row .skill .row .image{
